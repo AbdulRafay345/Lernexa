@@ -97,7 +97,7 @@ export default function Dashboard() {
               <div className="absolute inset-0 rounded-xl bg-gradient-to-br from-[#68369B] to-[#9D64CF] opacity-0 group-hover:opacity-50 blur-xl transition-opacity duration-300" />
             </div>
             <span className="text-xl font-bold text-[#161721]">
-              Quiz<span className="text-[#68369B]">Hub</span> AI
+              Lear<span className="text-[#68369B]">nexa</span>
             </span>
           </Link>
           <div className="flex items-center gap-3">

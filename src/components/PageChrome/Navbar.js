@@ -54,7 +54,7 @@ const Navbar = () => {
               <div className="absolute inset-0 rounded-xl bg-gradient-primary opacity-0 group-hover:opacity-50 blur-xl transition-opacity duration-300" />
             </div>
             <span className="font-display font-bold text-xl text-foreground">
-              Quiz<span className="text-gradient">Hub</span> AI
+              Lear<span className="text-gradient">nexa</span>
             </span>
           </Link>
 
