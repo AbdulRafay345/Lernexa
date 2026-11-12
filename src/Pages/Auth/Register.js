@@ -28,10 +28,6 @@ export default function Register() {
     }
   };
 
-  const handleGoogleRegister = () => {
-    console.log("Google register clicked");
-  };
-
   return (
     <div className="h-screen flex overflow-hidden" style={{ backgroundColor: '#9D7BC4' }}>
       {/* Left Side - Hero Section */}

@@ -56,7 +56,7 @@ const Footer = () => {
         <div className="grid lg:grid-cols-6 gap-12 mb-12">
           {/* Brand Column */}
           <div className="lg:col-span-2">
-            <a href="#" className="flex items-center gap-2 mb-4">
+            <a href="/" className="flex items-center gap-2 mb-4">
               <div className="w-10 h-10 rounded-xl bg-gradient-to-tr from-purple-500 to-purple-700 flex items-center justify-center shadow-button">
                 <Sparkles className="w-5 h-5 text-white" />
               </div>
@@ -113,13 +113,13 @@ const Footer = () => {
             © 2024 QuizHub AI. All rights reserved.
           </p>
           <div className="flex items-center gap-6 text-sm text-purple-200">
-            <a href="#" className="hover:text-white transition-colors">
+            <a href="#privacy" className="hover:text-white transition-colors">
               Privacy
             </a>
-            <a href="#" className="hover:text-white transition-colors">
+            <a href="#terms" className="hover:text-white transition-colors">
               Terms
             </a>
-            <a href="#" className="hover:text-white transition-colors">
+            <a href="#cookies" className="hover:text-white transition-colors">
               Cookies
             </a>
           </div>

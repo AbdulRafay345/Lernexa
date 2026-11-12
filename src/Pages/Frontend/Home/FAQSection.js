@@ -110,7 +110,7 @@ const FAQSection = () => {
           <div className="mt-12 text-center">
             <p className="text-[#3A2F4F] mb-4">Still have questions?</p>
             <a
-              href="#"
+              href="#contactUs"
               className="inline-flex items-center gap-2 text-[#68369B] font-medium hover:opacity-80"
             >
               Contact our support team →
